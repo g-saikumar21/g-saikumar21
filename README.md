@@ -36,21 +36,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=g-saikumar21&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-saikumar21&layout=compact&theme=radical" alt="Top Languages" height="165"/>
-</p>
-
----
-
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=g-saikumar21&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🔹 Connect With Me
 🌐 Portfolio: [gsaikumar.vercel.app](https://gsaikumar.vercel.app)  
 🔗 LinkedIn: [linkedin.com/in/g-saikumar21](https://www.linkedin.com/in/g-saikumar21)  
