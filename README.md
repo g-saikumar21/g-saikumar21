@@ -39,7 +39,6 @@
 ## 🔹 Connect With Me
 🌐 Portfolio: [gsaikumar.vercel.app](https://gsaikumar.vercel.app)  
 🔗 LinkedIn: [linkedin.com/in/g-saikumar21](https://www.linkedin.com/in/g-saikumar21)  
-💻 GitHub: [github.com/g-saikumar21](https://github.com/g-saikumar21)  
 📧 Email: [saikumar70598@gmail.com](mailto:saikumar70598@gmail.com)  
 
 ---
